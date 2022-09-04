@@ -44,7 +44,7 @@
 ### DONE
 <!-- tils starts -->
 [我的遗愿清单]() 
-
+[我的个人简历]() 
 <!-- [Loading Twitter Birdwatch into SQLite for analysis with Datasette](https://til.simonwillison.net/twitter/birdwatch-sqlite) - 2022-09-03
 
 
