@@ -3,7 +3,6 @@
 ### TODO
 <!-- recent_releases starts -->
 [微信聊天记录导出]() - 2022-09-04  
-[微信好友检测]()
 [git 入门？]() 
 [jenkins？]() 
 
