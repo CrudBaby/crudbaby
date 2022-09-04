@@ -18,7 +18,7 @@
 
 [pocket-to-sqlite 0.2.2](https://github.com/dogsheep/pocket-to-sqlite/releases/tag/0.2.2) - 2022-08-22 -->
 <!-- recent_releases ends -->
-More on [CrudBaby 的编程间](https://live.bilibili.com/22574514?visit_id=bx00pjmqduo0)
+<!-- More on [CrudBaby 的编程间](https://live.bilibili.com/22574514?visit_id=bx00pjmqduo0) -->
 </td><td valign="top" width="34%">
 
 ### In Dev
@@ -35,7 +35,7 @@ More on [CrudBaby 的编程间](https://live.bilibili.com/22574514?visit_id=bx00
 
 [Litestream backups for Datasette Cloud (and weeknotes)](http://simonwillison.net/2022/Aug/11/litestream-backups/) - 2022-08-11 -->
 <!-- blog ends -->
-More on [CrudBaby 的编程间](https://live.bilibili.com/22574514?visit_id=bx00pjmqduo0)
+<!-- More on [CrudBaby 的编程间](https://live.bilibili.com/22574514?visit_id=bx00pjmqduo0) -->
 </td><td valign="top" width="33%">
 
 ### DONE
@@ -50,7 +50,7 @@ More on [CrudBaby 的编程间](https://live.bilibili.com/22574514?visit_id=bx00
 
 [Trying out Quarto on macOS](https://til.simonwillison.net/quarto/trying-out-quarto) - 2022-08-18 -->
 <!-- tils ends -->
-More on [CrudBaby 的编程间](https://live.bilibili.com/22574514?visit_id=bx00pjmqduo0)
+<!-- More on [CrudBaby 的编程间](https://live.bilibili.com/22574514?visit_id=bx00pjmqduo0) -->
 </td></tr></table>
 
 <a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
