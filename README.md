@@ -2,7 +2,8 @@
 
 ### TODO
 <!-- recent_releases starts -->
-[datasette-render-image-tags 0.1](https://github.com/simonw/datasette-render-image-tags/releases/tag/0.1) - 2022-09-04
+[微信聊天记录导出]() - 2022-09-04
+[微信好友检测]() - 2022-09-04
 
 <!-- [datasette-sitemap 1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - 2022-08-30
 
@@ -23,7 +24,7 @@
 
 ### In Dev
 <!-- blog starts -->
-[Notes on the SQLite DuckDB paper](http://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/) - 2022-09-01
+[微信聊天记录导出](http://simonwillison.net/2022/Sep/1/sqlite-duckdb-paper/) - 2022-09-01
 
 <!-- [Stable Diffusion is a really big deal](http://simonwillison.net/2022/Aug/29/stable-diffusion/) - 2022-08-29
 
