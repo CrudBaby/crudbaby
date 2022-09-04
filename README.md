@@ -3,7 +3,9 @@
 ### TODO
 <!-- recent_releases starts -->
 [微信聊天记录导出]() - 2022-09-04
-[微信好友检测]() - 2022-09-04
+[微信好友检测]()
+[git 入门？]() 
+[jenkins？]() 
 
 <!-- [datasette-sitemap 1.0](https://github.com/simonw/datasette-sitemap/releases/tag/1.0) - 2022-08-30
 
@@ -41,7 +43,10 @@
 
 ### DONE
 <!-- tils starts -->
+[我的遗愿清单]() 
+
 <!-- [Loading Twitter Birdwatch into SQLite for analysis with Datasette](https://til.simonwillison.net/twitter/birdwatch-sqlite) - 2022-09-03
+
 
 [How to scp files to and from Fly](https://til.simonwillison.net/fly/scp) - 2022-09-02
 
